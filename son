@@ -1,0 +1,10 @@
+{
+  "forceUpdate": false,
+  "versionCode": 2,
+  "indexes": [
+    1,
+    5,
+    8
+  ],
+  "rateDialog": true
+}
