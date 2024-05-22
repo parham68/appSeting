@@ -1,10 +1,21 @@
 {
-  "forceUpdate": false,
-  "versionCode": 2,
-  "indexes": [
-    1,
-    5,
-    8
-  ],
-  "rateDialog": true
+  "setting": {
+    "update": {
+      "versionCode": 1,
+      "isForce": true
+    }
+  },
+  "rate": {
+    "isActive": true,
+    "indexes": [
+      1,
+      3,
+      5,
+      8,
+      11,
+      13,
+      15
+    ]
+  },
+  "config": "vless://...."
 }
