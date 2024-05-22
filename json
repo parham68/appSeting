@@ -2,7 +2,7 @@
   "setting": {
     "update": {
       "versionCode": 1,
-      "isForce": true
+      "isForceUpdate": true
     }
   },
   "rate": {
