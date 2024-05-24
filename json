@@ -3,19 +3,19 @@
     "update": {
       "versionCode": 1,
       "isForceUpdate": true
+    },
+    "rate": {
+      "isActive": true,
+      "indexes": [
+        1,
+        3,
+        5,
+        8,
+        11,
+        13,
+        15
+      ]
     }
-  },
-  "rate": {
-    "isActive": true,
-    "indexes": [
-      1,
-      3,
-      5,
-      8,
-      11,
-      13,
-      15
-    ]
   },
   "config": "vless://...."
 }
