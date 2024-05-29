@@ -4,7 +4,7 @@
       "versionCode": 1,
       "isForceUpdate": true
     },
-    "rate": {
+    "rateDialog": {
       "isActive": true,
       "indexes": [
         1,
