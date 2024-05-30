@@ -5,7 +5,6 @@
       "isForceUpdate": true
     },
     "rateDialog": {
-      "isActive": true,
       "indexes": [
         1,
         3,
