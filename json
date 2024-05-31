@@ -14,13 +14,6 @@
         13,
         15
       ]
-    }
-  },
-  "server": {
-    "protocol": "vmess",
-    "serverCode": 567544322000887,
-    "ip": "1.1.1.1",
-    "location": "usa",
-    "config": "vless://...."
-  }
+    },
+    "shareLink":"https://www.google.com"
 }
