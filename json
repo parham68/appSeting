@@ -1,7 +1,7 @@
 {
   "setting": {
     "update": {
-      "versionCode": 2,
+      "versionCode": 1,
       "isForceUpdate": true
     },
     "rateDialog": {
@@ -16,6 +16,8 @@
       ]
     },
     "shareLink": "https://www.google.com",
-     "telegramLink": "https://t.me/farsi_filter"
+    "telegramLink": "https://t.me/farsi_filter"
   }
 }
+
+
