@@ -16,7 +16,7 @@
       ]
     },
     "admob":{
-      "isActive":true,
+      "isActive":false,
       "firstUnit":"ca-app-pub-3940256099942544/8691691433"
     },
     "shareLink": "https://www.google.com",
