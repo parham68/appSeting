@@ -18,7 +18,7 @@
     "admob":{
       "isActive":true,
       "firstUnit":"ca-app-pub-3940256099942544/8691691433",
-       "admobTimer" :20000
+       "admobTimer" :2000
     },
     "shareLink": "https://www.google.com",
     "telegramLink": "https://t.me/farsi_filter"
