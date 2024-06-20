@@ -1,7 +1,7 @@
 {
   "setting": {
     "update": {
-      "versionCode": 2,
+      "versionCode": 1,
       "isForceUpdate": false
     },
     "rateDialog": {
@@ -17,7 +17,7 @@
     },
     "admob":{
       "firstAds": {
-        "isActiveFirst":true,
+        "isActiveFirst":false,
         "firstUnit":"ca-app-pub-3940256099942544/8691691433"
       },
       "secondAds": {
