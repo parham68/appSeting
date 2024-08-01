@@ -16,7 +16,7 @@
       ]
     },
     "admob": {
-      "isActive": false,
+      "isActive": true,
       "appId": "",
       "units": {
         "firstUnit": "ca-app-pub-3940256099942544/8691691433",
