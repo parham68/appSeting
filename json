@@ -34,7 +34,7 @@
       "telegramLink": "https://t.me/farsi_filter"
     },
     "timeouts": {
-      "apiRequests": 15000,
+      "apiRequests": 10000,
       "apiRequestsRetry": 5
     }
   },
