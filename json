@@ -67,6 +67,11 @@
     "config": "vless://7af82858-6cf1-455e-8414-e9feb10d51f6@speedtest.org:443?path=%2Fws&security=tls&encryption=none&alpn=h2,http/1.1&host=123.mosh-arsh-hosting.info&fp=chrome&type=ws&sni=123.mosh-arsh-hosting.info#tst-qmibb0pj",
     "countryName":"FI",
     "countryCode":"000",
+    "serverCode":1300},
+    {
+    "config": "vless://1d86846c-5a27-43c8-8981-57bb75c82195@speedtest.org:443?path=%2Fparadise&security=tls&encryption=none&host=finland.nadarbala.com&fp=chrome&type=ws&sni=finland.nadarbala.com#Finland",
+    "countryName":"FI",
+    "countryCode":"000",
     "serverCode":1300}
   ]
 }
