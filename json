@@ -1,8 +1,8 @@
 {
   "setting": {
     "update": {
-      "versionCode": 1,
-      "isForceUpdate": true
+      "versionCode": 2,
+      "isForceUpdate": false
     },
     "rateDialog": {
       "indexes": [
