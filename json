@@ -72,6 +72,6 @@
     "config": "vless://1d86846c-5a27-43c8-8981-57bb75c82195@speedtest.org:443?path=%2Fparadise&security=tls&encryption=none&host=finland.nadarbala.com&fp=chrome&type=ws&sni=finland.nadarbala.com#Finland",
     "countryName":"FI",
     "countryCode":"000",
-    "serverCode":1300}
+    "serverCode":1400}
   ]
 }
