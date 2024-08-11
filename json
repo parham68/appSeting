@@ -2,7 +2,7 @@
   "setting": {
     "update": {
       "versionCode": 2,
-      "isForceUpdate": false
+      "isForceUpdate": true
     },
     "rateDialog": {
       "indexes": [
