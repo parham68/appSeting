@@ -1,7 +1,7 @@
 {
   "setting": {
     "update": {
-      "versionCode": 2,
+      "versionCode": 1,
       "isForceUpdate": false
     },
     "rateDialog": {
@@ -17,6 +17,7 @@
     },
     "admob": {
       "isActive": true,
+      "isGdprActive":true,
       "appId": "",
       "units": {
         "firstUnit": "",
