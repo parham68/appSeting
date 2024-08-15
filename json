@@ -36,7 +36,7 @@
     "apiRequests": 10000,
     "apiRequestsRetry": 5
   },
-  "splashTest":"Free,Fast and Secure"
+  "splashText":"Free,Fast and Secure"
 },
 
 "configs": [{
