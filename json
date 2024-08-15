@@ -26,9 +26,7 @@
       "unitBeforeConnect": "ca-app-pub-3940256099942544/8691691433",
       "unitAfterDisconnect": "ca-app-pub-3940256099942544/8691691433",
       "admobTimer": 20000
-    },
-    "bannerUnits": {},
-    "nativeUnits": {}
+    }
   },
   "links": {
     "shareLink": "https://www.google.com",
@@ -37,7 +35,8 @@
   "timeouts": {
     "apiRequests": 10000,
     "apiRequestsRetry": 5
-  }
+  },
+  "splashTest":"Free,Fast and Secure"
 },
 
 "configs": [{
