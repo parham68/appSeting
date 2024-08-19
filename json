@@ -16,7 +16,7 @@
       ]
     },
   "admob": {
-    "isActive": true,
+    "isActive": false,
     "isGdprActive": true,
     "appId": "",
     "units": {
