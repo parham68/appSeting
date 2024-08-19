@@ -43,7 +43,7 @@
 "serverCode":25609},
 {
 "config": "vless://7af82858-6cf1-455e-8114-e9feb10d51f6@188.114.96.6:443?path=%2Fws&security=tls&encryption=none&alpn=h2,http/1.1&host=123.mosh-arsh-hosting.info&fp=chrome&type=ws&sni=123.mosh-arsh-hosting.info#tst-qmibb0pj",
-"countryName":"US",
+"countryName":"FI",
 "countryCode":"000",
 "serverCode":2588766}
 
