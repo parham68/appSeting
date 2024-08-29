@@ -13,7 +13,7 @@
     },
   "admob": {
     "isActive": false,
-    "isGdprActive": true,
+    "isGdprActive": false,
     "appId": "",
     "units": {
       "firstUnit": "",
