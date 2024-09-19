@@ -1,7 +1,7 @@
 {
   "setting": {
     "update": {
-      "versionCode": 5,
+      "versionCode": 4,
       "isForceUpdate": false
     },
     "rateDialog": {
